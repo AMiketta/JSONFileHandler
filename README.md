@@ -1,5 +1,7 @@
 # JSONFileHandler
 
+Plattform: SWIFT 4 iOS
+
 Description:
 The JSON File handler can load JSON files from the resources and decode them to the target class.
 
